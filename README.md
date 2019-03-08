@@ -1,0 +1,2 @@
+# MyBlog
+python class
